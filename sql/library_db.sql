@@ -8,9 +8,11 @@ CREATE TABLE books (
 );
 
 INSERT INTO books VALUES
-(1, 'The Great Gatsby', 'F. Scott Fitzgerald'),
-(2, 'To Kill a Mockingbird', 'Harper Lee'),
-(3, '1984', 'George Orwell');
+(1, 'Shyamchi Aai', 'Sane Guruji'),
+(2, 'Wings Of Fire', 'A.P.J. Abdul Kalam'),
+(3, 'The Great Gatsby', 'F. Scott Fitzgerald'),
+(4, 'To Kill a Mockingbird', 'Harper Lee'),
+(5, '1984', 'George Orwell');
 
 -- Example queries
 SELECT * FROM books;
